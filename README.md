@@ -12,7 +12,7 @@ Welcome to the repository where I've documented my solutions to the programming 
 
 ## Introduction
 
-The "Java Programming Course" on Test Automation University is an invaluable resource for learning Java programming from scratch. This repository contains my solutions to the programming assignments and quizzes presented throughout the course. It aims to provide a consolidated view of my understanding and progress.
+The "[Java Programming](https://testautomationu.applitools.com/java-programming-course/)" Course on Test Automation University is an invaluable resource for learning Java programming from scratch. This repository contains my solutions to the programming assignments and quizzes presented throughout the course. It aims to provide a consolidated view of my understanding and progress.
 
 
 ## Directory Structure
@@ -22,7 +22,7 @@ The repository is organized as follows:
 - `Chapter X/`: Each chapter from the course has its own directory.
   - `README.md`: This file contains the exercise problem statement to solve for the chapter.
   - `src/`: This directory, located within the chapter directory, contains Java source code files. These files represent my own implementations to solve the exercises presented in the chapter.
-  - `Chapter XY Quiz.txt`: A text file that contains my answers to the quizzes associated with this chapter.
+  - `Chapter Xy Quiz.txt`: A text file that contains my answers to the quizzes associated with this chapter.
 
 
 ## Usage
