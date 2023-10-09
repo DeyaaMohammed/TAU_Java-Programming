@@ -1,0 +1,27 @@
+1. How many paths exist in an if-else statement?
+[ ] a- 0
+[ ] b- 1
+[x] c- 2
+[ ] d- 3
+
+2. When will statements inside of an if block be executed?
+[ ] a- All the time
+[x] b- Only if condition is true
+[ ] c- Only if condition is false
+[ ] d- Never
+
+3. When will statements inside of an else block be executed?
+[ ] a- All the time
+[ ] b- Only if condition is true
+[x] c- Only if condition is false
+[ ] d- Never
+
+4. Is it possible to execute the statements of both the if and the else blocks of an if-else statement?
+[ ] a- True
+[x] b- False
+
+5. When can curly braces be omitted from an if statement?
+[x] a- When there’s only one statement that needs to be executed
+[ ] b- When there are several statements that need to be executed
+[ ] c- Anytime - it’s completely optional
+[ ] d- Never - it’s always required

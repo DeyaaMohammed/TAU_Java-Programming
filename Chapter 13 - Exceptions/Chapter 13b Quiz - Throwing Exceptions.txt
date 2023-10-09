@@ -1,0 +1,18 @@
+1. Which of the following is NOT a valid option for a method that calls another method that throws an exception?
+[ ] a- Catch the exception
+[ ] b- Rethrow the exception
+[x] c- Ignore the exception
+
+2. How do you rethrow an exception?
+[ ] a- By adding the word "rethrows" inside of the catch block
+[x] b- By adding "throws" to the method header followed by the exception type
+[ ] c- By adding "throws" inside of the try block
+
+3. How do you throw an exception from your method?
+[x] a- By throwing a new instance of that exception
+[ ] b- By implementing a try/catch block
+[ ] c- By declaring an Exception object as a global field
+
+4. You can define your own exception classes.
+[x] a- True
+[ ] b- False

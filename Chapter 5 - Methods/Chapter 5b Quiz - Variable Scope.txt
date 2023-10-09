@@ -1,0 +1,82 @@
+1. The first line of a method is called a _______
+[x] header
+[ ] opening
+[ ] definition
+[ ] body
+
+2. Which of the following is NOT a required part of a method declaration?
+[ ] name
+[ ] return type
+[x] access modifier
+[ ] parentheses
+
+3. Which of these is NOT a part of a method’s signature?
+[ ] name
+[ ] parameter list
+[x] non-access modifier
+
+4. How do you call a method?
+[x] By its name
+[ ] By its data type
+[ ] By its return type
+[ ] By its access modifier
+
+5. What determines the order in which methods are executed within a class?
+[ ] The order in which they are defined within the class
+[x] The order in which they are called
+[ ] Alphabetical order
+[ ] It's random
+
+6. Which is the reserved word to end a method and send back a value to the caller?
+[ ] exit
+[ ] break
+[x] return
+[ ] close
+
+7. What type of data will a method with the `void` return type return?
+[ ] String
+[ ] int
+[ ] boolean
+[x] none
+
+8. What is the scope of a method's parameter?
+[ ] Can be used anywhere in the class
+[x] Can be used anywhere within the method
+[ ] Can be used only within the method's header
+[ ] Cannot be used within other blocks within the method, such as loops and decisions
+
+9. Which of these would be a valid return type?
+[ ] public
+[ ] static
+[x] String
+[ ] main
+
+10. How many values can a method return?
+[x] 1
+[ ] 2
+[ ] 3
+[ ] Unlimited
+
+11. If a called method returns a value, the calling method is required to receive what’s returned and store it into a variable.
+[ ] True
+[x] False
+
+12. A calling method’s argument list must be in the exact same order as the receiving method’s parameter list.
+[x] True
+[ ] False
+
+13. Arguments and their corresponding parameters must have the exact same name.
+[ ] True
+[x] False
+
+14. Variables declared at the class level are also known as _____ variables.
+[ ] method
+[x] global
+[ ] local
+[ ] conditional
+
+15. Variables declared at the method level are also known as _____ variables.
+[ ] method
+[ ] global
+[x] local
+[ ] conditional

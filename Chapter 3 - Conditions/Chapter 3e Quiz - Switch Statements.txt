@@ -1,0 +1,74 @@
+1. When is it ideal to use a switch statement?
+[ ] a- When there is one possible path
+[ ] b- When there are two possible paths
+[x] c- When there are more than two possible paths
+
+2. Which decision structure is interchangeable with the switch statement?
+[ ] a- if
+[ ] b- if-else
+[x] c- if-else-if
+[ ] d- nested ifs
+
+3. Which type of expression does the condition of a switch statement evaluate?
+[ ] a- Any
+[ ] b- None
+[x] c- Equality
+[ ] d- Greater or less than
+
+4. Each path of a switch statement is denoted by the word _____
+[x] a- case
+[ ] b- switch
+[ ] c- if
+[ ] d- break
+
+5. Which cases of a switch statement are executed?
+[ ] a- All that are true
+[x] b- The first one that is true
+[ ] c- All that are false
+[ ] d- The last one that is false
+
+6. The purpose of the reserved word, break, is to ______
+[ ] a- Exit an if block and enter an else block
+[x] b- End a case block within a switch statement
+[ ] c- Denote the end of the nested if statements
+[ ] d- Close the input stream
+
+7. When is the default case within a switch statement executed?
+[ ] a- Before all other cases are executed
+[ ] b- When there are no case statements present
+[x] c- When the value being evaluated does not equal any of the case statements
+[ ] d- After a case is executed
+
+8. What will happen in a case where the break statement is omitted?
+[x] a- The next case will also be executed
+[ ] b- The program will crash
+[ ] c- There will be a compilation error
+[ ] d- The program will add it by default
+
+9. Which decision structure is best for a case where there’s only one conditional path needed?
+[x] a- if
+[ ] b- if-else
+[ ] c- if-else-if
+[ ] d- nested ifs
+[ ] e- switch
+
+10. Which decision structure is best when there’s two conditional paths, where one should be executed if the condition is true and the other if the condition is false?
+ [ ] a- if
+ [x] b- if-else
+ [ ] c- if-else-if
+ [ ] d- nested ifs
+ [ ] e- switch
+
+11. Which decision structure is used when there are more than two conditional paths and its condition only checks for equality?
+ [ ] a- if
+ [ ] b- if-else
+ [ ] c- if-else-if
+ [ ] d- nested ifs
+ [x] e- switch
+
+12. Which decision structure can be used when you need to immediately check another condition if the first condition was met?
+ [ ] a- if
+ [ ] b- if-else
+ [ ] c- if-else-if
+ [x] d- nested ifs
+ [ ] e- switch

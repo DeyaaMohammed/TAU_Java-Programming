@@ -1,0 +1,60 @@
+1. Which of the following data structure does not inherit from the Collection interface?
+[ ] a- Set
+[ ] b- List
+[ ] c- Queue
+[x] d- Map
+
+2. Which of the following data structure holds ordered data which does not have to be unique?
+[ ] a- Set
+[x] b- List
+[ ] c- Object
+[ ] d- Map
+
+3. Which of the following data structures typically processes its entries using the First In - First Out algorithm?
+[ ] a- Set
+[ ] b- List
+[x] c- Queue
+[ ] d- Map
+
+4. Which of the following data structures holds key/value pairs?
+[ ] a- Set
+[ ] b- List
+[ ] c- Queue
+[x] d- Map
+
+5. Which of the following data structure's elements can be accessed directly by their position?
+[ ] a- Set
+[x] b- List
+[ ] c- Queue
+[ ] d- Map
+
+6. Collections are only able to hold Strings
+[ ] a- True
+[x] b- False
+
+7. The element that will be deleted from a Queue when `remove()` is called, is known as the _______?
+[x] a- Head
+[ ] b- Lead
+[ ] c- Primary
+[ ] d- Top
+
+8. The last element added to a Queue is known as a _______?
+[ ] a- Head
+[x] b- Tail
+[ ] c- Back
+[ ] d- Top
+
+9. Which method returns the first element of a Queue?
+[ ] a- get
+[ ] b- top
+[ ] c- first
+[x] d- peek
+
+10. Values within a Map are required to be unique.
+[ ] a- True
+[x] b- False
+
+11. What happens when we attempt to add a duplicate key to a Map using `put()`?
+[ ] a- An error occurs
+[ ] b- The duplicate element is ignored
+[x] c- The duplicate element overrides the original element

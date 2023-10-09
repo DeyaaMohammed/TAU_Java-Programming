@@ -1,0 +1,43 @@
+1. Which of the following is used to enclose code comments that span multiple lines?
+[ ] a- //
+[x] b- /* */
+[ ] c- {}
+[ ] d- []
+
+2. Comments can only exist within a method.
+[ ] a- True
+[x] b- False
+
+3. What is an if statement?
+[x] a- A decision structure that executes statement(s) given some condition is met
+[ ] b- A loop
+[ ] c- A variable
+[ ] d- A class
+
+4. What goes inside of the parentheses of an if statement?
+[ ] a- A counter
+[ ] b- A variable declaration
+[x] c- A condition
+[ ] d- A String
+
+5. A condition is what type of expression?
+[ ] a- String
+[ ] b- int
+[ ] c- float
+[x] d- boolean
+
+6. The boolean data type holds ____
+[ ] a- whole numbers
+[ ] b- decimal numbers
+[ ] c- Strings
+[x] d- true or false
+
+7. Any time a variable is updated with a new value, it must be re-declared.
+[ ] a- True
+[x] b- False
+
+8. What is a magic number?
+[ ] a- A number that the program randomly generates
+[x] b- A number that is hard-coded as opposed to being represented by a variable
+[ ] c- A number that changes every time the program runs
+[ ] d- A number with the data type of Magic

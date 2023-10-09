@@ -1,0 +1,39 @@
+1. Which of the following data structures does NOT have an `iterator()` method?
+[ ] a- Set
+[ ] b- List
+[ ] c- Queue
+[x] d- Map
+
+2. Which method of Iterator lets you know if there are more elements to iterate over?
+[ ] a- next()
+[x] b- hasNext()
+[ ] c- more()
+[ ] d- iterate()
+
+3. Which method of Iterator gives you the next entry in the map?
+[x] a- next()
+[ ] b- hasNext()
+[ ] c- entry()
+[ ] d- getNext()
+
+4. In order to use the enhanced for loop to iterate over collections, what must be declared?
+[ ] a- The size of the collection
+[ ] b- The name of the keys
+[x] c- The data type of the elements
+[ ] d- A secret handshake
+
+5. Which operator is used to declare the data type of the elements within a collection/map?
+[ ] a- .
+[ ] b- +
+[ ] c- &&
+[x] d- <>
+
+6. Maps are able to hold entries with primitive data types as their key and value.
+[ ] a- True
+[x] b- False
+
+7. The forEach() method takes which of the following?
+[x] a- lambda expression
+[ ] b- iterator
+[ ] c- i counter
+[ ] d- empty parameter list

@@ -1,0 +1,27 @@
+1. What is the purpose of overriding a method?
+[x] a- To change the behavior of an inherited method
+[ ] b- To fix a bug in the behavior of a method within a superclass
+[ ] c- To ensure that an inherited method is executed
+[ ] d- To enable inheritance from a superclass
+
+2. To override an inherited method, which of the following must be done?
+[x] a- The subclass must redefine the method with the same signature
+[ ] b- The subclass must redefine the method with the same body
+[ ] c- The superclass must redefine the method with the same signature
+[ ] d- The superclass must redefine the method with the same body
+
+3. Using the @Override annotation is required to override an inherited method.
+[ ] a- True
+[x] b- False
+
+4. What is the purpose of the @Override annotation?
+[x] a- To indicate your intention of overriding a method. It will flag an error if you goof up
+[ ] b- It can be placed in the superclass on the original method to allow you to override it without redefining the method in the subclass
+[ ] c- To indicate that all of the methods of the superclass have been overridden in the subclass
+[ ] d- To establish inheritance between two classes
+
+5. How does overloading differ with and without inheritance?
+[x] a- Without inheritance, methods are overloaded within the same class. With inheritance, a subclass can overload a method that it inherited from the superclass
+[ ] b- Overloading is only allowed when inheritance is involved
+[ ] c- Overloading is only allowed when inheritance is NOT involved
+[ ] d- Overloading does not change with or without inheritance

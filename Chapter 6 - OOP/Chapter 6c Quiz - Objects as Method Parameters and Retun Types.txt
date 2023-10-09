@@ -1,0 +1,30 @@
+1. Methods can only return primitive data types.
+[ ] a- True
+[x] b- False
+
+2. Classes that exist outside of the package in which they are being used must be imported.
+[x] a- True
+[ ] b- False
+
+3. Is this a valid return statement for a method that specifies its return type as Object: `return new Object();`?
+[x] a- Yes
+[ ] b- No
+
+4. Which is true about static methods?
+[ ] a- All methods must be static
+[x] b- Static methods are ones that can be called without instantiating its class. They do not have knowledge of state within the class
+[ ] c- Static methods are always public
+[ ] d- Static methods are aware of the state of other members of the class
+
+5. For a static method to be able to call a non-static method, it must do so by _______?
+[x] a- Using an object of the type in which the non-static method belongs
+[ ] b- Simply calling the method's name. Nothing special is needed
+[ ] c- Static methods cannot call non-static methods
+
+6. Static global fields can be accessed by non-static methods of the same class.
+[x] a- True
+[ ] b- False
+
+7. In Java, default constructors exist in classes with no constructors, even if not explicitly defined.
+[x] a- True
+[ ] b- False

@@ -1,0 +1,25 @@
+1. Java can be used for test automation.
+[x] a- True
+[ ] b- False
+
+2. What type of test automation can Java be used for?
+[ ] a- Web
+[ ] b- Mobile
+[ ] c- API
+[x] d- All of the above
+
+3. Inheritance can be used in test automation projects.
+[x] a- True
+[ ] b- False
+
+4. Collections can be used in test automation projects.
+[x] a- True
+[ ] b- False
+
+5. Decision structures can be used in test automation projects.
+[x] a- True
+[ ] b- False
+
+6. Loops can be used in test automation projects.
+[x] a- True
+[ ] b- False

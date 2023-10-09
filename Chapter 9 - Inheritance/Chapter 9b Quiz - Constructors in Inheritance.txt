@@ -1,0 +1,24 @@
+1. Given that Car inherits from Vehicle, and no constructors have been explicitly defined in either class, which of these will be called first upon the instantiation of Car?
+[ ] a- Car()
+[x] b- Vehicle()
+[ ] c- Neither because no constructors were defined
+
+2. A subclass's default constructor can only access the default constructor of its superclass.
+[ ] a- True
+[x] b- False
+
+3. Given that Vegetable inherits from Food, and `super("Broccoli")` is called from one of Vegetable's constructors, which of the following will be executed upon this call?
+[ ] a- Vegetable()
+[ ] b- Vegetable(String name)
+[ ] c- Food()
+[x] d- Food(String name)
+
+4. An explicit call to a superclass's constructor must be the very first line of the calling constructor.
+[x] a- True
+[ ] b- False
+
+5. If a superclass has constructors but none of them are a default constructor, which of the following is true?
+[ ] a- The subclass's default constructor will automatically call the superclass's implicit default constructor.
+[ ] b- The subclass has to define constructors that match the signatures of those which are in its superclass.
+[x] c- The subclass has to explicitly call one of the existing non-default constructors of its superclass from one of its constructors.
+[ ] d- The first constructor defined in the superclass will automatically be called from the subclass's default constructor.

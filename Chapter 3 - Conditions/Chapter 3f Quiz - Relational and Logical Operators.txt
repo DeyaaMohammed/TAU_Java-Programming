@@ -1,0 +1,49 @@
+1. Which relational operator is used to test for equality?
+[ ] a- >
+[ ] b- <
+[ ] c- =
+[x] d- == 
+
+2. Which of these is an appropriate way to test if `a` equals 5?
+[ ] a- if(a = 5) 
+[x] b- if(a == 5) 
+[ ] c- if(a.equals(5)) 
+[ ] d- if(5 = a) 
+
+3. Which is true of logical operators?
+[ ] a- They are interchangeable with relational operators
+[x] b- They are used to combine two conditions to result in a single boolean value
+[ ] c- They are data types
+[ ] d- There are an infinite number of them to choose from
+
+4. Which of the following is the logical operator for AND?
+[ ] a- >> 
+[ ] b- || 
+[x] c- && 
+[ ] d- == 
+
+5. Which of the following is the logical operator for OR?
+[ ] a- >> 
+[x] b- || 
+[ ] c- && 
+[ ] d- == 
+
+6. Which logical operator is used to negate a boolean expression?
+[ ] a- == 
+[ ] b- != 
+[x] c- ! 
+[ ] d- && 
+
+7. What’s the value of (2>3 && 4<=4)?
+[ ] a- True
+[x] b- False
+
+8. What’s the value of (9 != 0 || 5>5)?
+[x] a- True
+[ ] b- False
+
+9. Considering short circuit logic, how many conditions will actually be evaluated in the expression (1>2 && 4<5)?
+[x] a- 1
+[ ] b- 2
+[ ] c- 4
+[ ] d- 5

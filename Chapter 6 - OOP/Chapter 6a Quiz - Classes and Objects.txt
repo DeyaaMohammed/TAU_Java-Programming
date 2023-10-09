@@ -1,0 +1,56 @@
+1. Which one of the following is not a main component of an object?
+[ ] a- Fields
+[ ] b- Methods
+[x] c- Rectangles
+
+2. Constructors are required to have a return type.
+[ ] a- True
+[x] b- False
+
+3. If a class has a name of Trophy, which of the following is a valid constructor name?
+[ ] a- Constructor
+[ ] b- MyConstructor
+[x] c- Trophy
+[ ] d- constructor
+
+4. Which of the following is a default constructor?
+[x] a- Product()
+[ ] b- Product(double price)
+[ ] c- Product(String sku)
+[ ] d- Product
+
+5. What is the purpose of a constructor?
+[ ] a- To create a new object
+[x] b- To initialize an object when it is created
+[ ] c- To create a new class
+[ ] d- To delete an object that is no longer in use
+
+6. What is the maximum number of constructors allowed within a class?
+[ ] a- 0
+[ ] b- 1
+[ ] c- 3
+[x] d- There is no limit
+
+7. Which of the following is true about members of a class that have private access modifiers?
+[x] a- They cannot be accessed outside of the class
+[ ] b- They cannot be used within the class
+[ ] c- They are not allowed to be private
+[ ] d- They can only be used once
+
+8. Methods that do not have an explicit access modifier can be accessed by ______.
+[ ] a- Other methods within the same class only
+[x] b- Classes within the same package only
+[ ] c- Classes outside of the same package only
+[ ] d- There are no restrictions
+
+9. For methods to be accessed from code outside of its package, it must have which access identifier?
+[ ] a- private
+[ ] b- protected
+[x] c- public
+[ ] d- open
+
+10. Hiding the data of a class by making its fields private and allowing access through public methods is known as ______
+[ ] a- Abstraction
+[ ] b- Inheritance
+[ ] c- Polymorphism
+[x] d- Encapsulation

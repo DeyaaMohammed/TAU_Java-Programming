@@ -1,0 +1,27 @@
+1. An if statement can exist inside of another if statement.
+[x] a- True
+[ ] b- False
+
+2. The double data type can hold decimal and whole numbers.
+[x] a- True
+[ ] b- False
+
+3. Nested ifs have the same effect as multiple stand-alone if statements.
+[ ] a- True
+[x] b- False
+
+4. Nested ifs have the same effect as a single if-else statement.
+[ ] a- True
+[x] b- False
+
+5. Within a class, how does Java know which else statement is meant to correspond to which if statement.
+[x] a- The corresponding else statement is the very next else statement that follows a completed if statement
+[ ] b- There cannot be multiple if and else statements within a single program
+[ ] c- The corresponding if and else statements are given the same name
+[ ] d- Java has no way of knowing
+
+6. When will a nested if statement be evaluated?
+[ ] a- When the if statement in which it is nested inside of is false
+[x] b- When the if statement in which it is nested inside of is true
+[ ] c- The order is random and cannot be controlled by the programmer
+[ ] d- Before the if statement in which it is nested inside of

@@ -1,0 +1,27 @@
+1. Which is the reserved word used to inherit from a class?
+[ ] a- inherits
+[ ] b- subclass
+[ ] c- superclass
+[x] d- extends
+
+2. In the declaration `class A extends B`, which class is the superclass?
+[ ] a- A
+[x] b- B
+[ ] c- Neither
+[ ] d- This is not enough information to determine
+
+3. A subclass can only contain what it inherited.
+[ ] a- True
+[x] b- False
+
+4. What is the purpose of inheritance between classes?
+[x] a- To reuse code
+[ ] b- To hide code
+[ ] c- To manipulate code
+[ ] d- To get rich
+
+5. An inheritance relationship is created in the _______.
+[x] a- Subclass
+[ ] b- Superclass
+[ ] c- Both the subclass and the superclass
+[ ] d- Neither the subclass nor the superclass

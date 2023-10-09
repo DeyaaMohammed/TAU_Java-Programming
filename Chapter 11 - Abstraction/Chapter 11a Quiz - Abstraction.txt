@@ -1,0 +1,33 @@
+1. Abstract classes can be instantiated.
+[ ] a- True
+[x] b- False
+
+2. Abstract methods do not have a body.
+[x] a- True
+[ ] b- False
+
+3. Abstract classes are designed to be run as-is.
+[ ] a- True
+[x] b- False
+
+4. The reserved word `abstract` is a(n) ______.
+[ ] a- Access modifier
+[x] b- Non-access modifier
+[ ] c- Return type
+[ ] d- Data type
+
+5. Given a class contains an abstract method, which of the following is true?
+[ ] a- Every other method in the class must also be abstract.
+[x] b- The class itself must be abstract.
+[ ] c- Any method that calls this method must also be abstract.
+[ ] d- Any method that overrides this method must also be abstract.
+
+6. Abstract classes can only contain abstract methods.
+[ ] a- True
+[x] b- False
+
+7. Which of the following is true about a subclass that inherits from an abstract class?
+[x] a- The subclass must implement the inherited abstract methods or declare itself as abstract as well.
+[ ] b- The subclass only inherits the non-abstract methods.
+[ ] c- The subclass only inherits the abstract methods.
+[ ] d- A class cannot inherit from an abstract class.

@@ -1,0 +1,23 @@
+1. The purpose of programs is to _____?
+[ ] a- Allow people to download software
+[x] b- Provide instructions to a computer to enable it to perform tasks
+[ ] c- Provide a career path for software engineers
+[ ] d- Disrupt the world
+
+2. What kind of language is a computer able to understand?
+[ ] a- Any programming language
+[x] b- Only machine language
+[ ] b- Only Java
+[ ] d- Only human-friendly programming languages
+
+3. What is an algorithm?
+[ ] a- A complex problem
+[x] b- A guide that provides the high level steps to complete a task
+[ ] c- A programming language
+[ ] d- A coffee flavor
+
+4. Programs are implementations of ____?
+[x] a- Algorithms
+[ ] b- Computers
+[ ] c- Machine code
+[ ] d- 0s and 1s

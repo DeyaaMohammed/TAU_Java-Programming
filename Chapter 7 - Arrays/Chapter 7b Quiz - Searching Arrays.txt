@@ -1,0 +1,27 @@
+1. Which search algorithm searches every element of an array until a value is found?
+[x] a- sequential
+[ ] b- until
+[ ] c- binary
+[ ] d- split
+
+2. Which search algorithm searches an array by dividing it in half in each iteration?
+[ ] a- sequential
+[ ] b- linear
+[x] c- binary
+[ ] d- split
+
+3. Before performing a binary search, the array must be sorted.
+[x] a- True
+[ ] b- False
+
+4. What does this declaration of an enhanced for loop do: `for(String fruit : fruits)`?
+[ ] a- Assigns the value of fruits to fruit
+[x] b- Loops through an array called fruits, and on each iteration, assigns the current element to the variable called fruit
+[ ] c- Assigns the sentinel to an initial value of whatever is stored inside of the variable called fruits
+[ ] d- Gives a syntax error
+
+5. What type of comment describes information about a method and its parameters and return type?
+[ ] a- Single-line comment
+[ ] b- Multi-line comment
+[x] c- Javadoc
+[ ] d- Handwritten manual

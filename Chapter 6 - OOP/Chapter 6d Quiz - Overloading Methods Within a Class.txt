@@ -1,0 +1,15 @@
+1. Every method within a class must have a unique name.
+[ ] a- True
+[x] b- False
+
+2. Overloading is ___________
+[x] a- When multiple methods within a class have the same name, but different parameter lists
+[ ] b- When multiple methods within the same class have different names, but the same parameter list
+[ ] c- When multiple methods within different, unrelated classes have the same name
+[ ] d- When there are too many methods within one class
+
+3. How many overloaded methods are allowed within a class?
+[ ] a- 0
+[ ] b- 1
+[ ] c- 2
+[x] d- unlimited

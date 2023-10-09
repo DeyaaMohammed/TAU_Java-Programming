@@ -1,0 +1,75 @@
+1. What is an array?
+[ ] a- A data type
+[x] b- A variable which can hold multiple values
+[ ] c- A class type
+[ ] d- A constructor which takes multiple parameters
+
+2. Values within an array can have a variety of data types.
+[ ] a- True
+[x] b- False
+
+3. Which is NOT a valid declaration of an array?
+[ ] a- int myArray[];
+[ ] b- int[] myArray;
+[x] c- []int myArray
+
+4. What is an element of an array?
+[ ] a- The length of the array
+[ ] b- The data type of the array
+[x] c- A memory location of one of the array's values
+[ ] d- A force of nature
+
+5. What is an index in terms of arrays?
+[x] a- The address of a value within the array
+[ ] b- The length of the array
+[ ] c- The first element of an array
+[ ] d- A unique value within the array
+
+6. What does the number 3 represent in this statement: `myArray = new int[3];` ?
+[ ] a- The number of arrays in use
+[x] b- The maximum number of elements the array can hold
+[ ] c- The number of existing values that have been stored inside of the array
+[ ] d- The fourth value of this array
+
+7. The indices of an array begin at the number 1.
+[ ] a- True
+[x] b- False
+
+8. Given this statement: `myArray[2] = 4;`, how many elements can myArray store?
+[ ] a- 2
+[ ] b- 4
+[ ] c- 6
+[x] d- cannot be determined from this statement
+
+9. Given this statement: `myArray[2] = 4;`, what is the value of the third element of the array?
+[ ] a- 2
+[x] b- 4
+[ ] c- 6
+[ ] d- cannot be determined from this statement
+
+10. Given this statement: `myArray[] = {2, 4, 6, 8};`, what would `myArray[2]` do?
+[ ] a- Set the size of the array to 2
+[ ] b- Read the element with the value of 2
+[x] c- Read the element with the index of 2
+[ ] d- Remove the last 2 values of the array
+
+11. What is a constant variable?
+[x] a- A variable whose value does not change throughout the execution of the program
+[ ] b- A variable which represents a letter of the alphabet
+[ ] c- A variable which constantly changes
+
+12. Which keyword ensures a variable is indeed a constant?
+[ ] a- new
+[ ] b- constant
+[x] c- final
+[ ] d- static
+
+13. By convention, how is a constant variable's name defined?
+[ ] a- All lowercase
+[x] b- All uppercase
+[ ] c- Camel case
+
+14. To access all elements of an array, which structure is best?
+[ ] a- if statement
+[ ] b- switch statement
+[x] c- loop

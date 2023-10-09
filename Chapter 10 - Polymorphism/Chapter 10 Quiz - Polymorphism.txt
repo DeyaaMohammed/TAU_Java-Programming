@@ -1,0 +1,30 @@
+Sure, here are the questions with the requested format:
+
+1. Which of the following describes polymorphism in object-oriented programming?
+[ ] a- Hiding data and exposing behavior
+[x] b- Objects having the ability to take on multiple forms
+[ ] c- Inheritance between classes
+[ ] d- Classes belonging to multiple packages
+
+2. Given that class Car inherits from class Vehicle, is this a valid statement: `Vehicle car = new Car();`?
+[x] a- Yes
+[ ] b- No
+
+3. Given that class Car inherits from class Vehicle, is this a valid statement: `Car car = new Vehicle();`?
+[ ] a- Yes
+[x] b- No
+
+4. Given that class Car inherits from class Vehicle, and both classes contain a method called drive(), which of the methods would be executed in this second statement: `Vehicle car = new Car(); car.drive();`?
+[ ] a- drive() from class Vehicle
+[x] b- drive() from class Car
+[ ] c- Neither
+[ ] d- Both
+
+5. What is the purpose of casting an object to another type?
+[x] a- To access class members from the other type
+[ ] b- To create a new instance of the object
+[ ] c- To star in a movie
+
+6. Given this object: `Vehicle car = new Car();`, what would `car instanceof Car` resolve to?
+[x] a- True
+[ ] b- False

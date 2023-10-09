@@ -1,0 +1,24 @@
+1. When is it ideal to use an if-else-if statement?
+[ ] a- When there is one possible path
+[ ] b- When there are two possible paths
+[x] c- When there are more than two possible paths
+
+2. With if-else-if statements, multiple conditions must be specified.
+[x] a- True
+[ ] b- False
+
+3. Which branches of an if-else-if statement are executed?
+[ ] a- All that are true
+[x] b- The first one that is true
+[ ] c- All that are false
+[ ] d- The last one that is false
+
+4. Which of the following is a valid value for the char data type?
+[ ] a- 2
+[ ] b- 3.5
+[ ] c- “Hello World”
+[x] d- ‘Z’
+
+5. When declaring a variable, you are required to also initialize it with a value within the same declaration statement.
+[ ] a- True
+[x] b- False

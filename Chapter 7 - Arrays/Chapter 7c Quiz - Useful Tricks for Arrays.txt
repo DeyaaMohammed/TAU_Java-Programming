@@ -1,0 +1,15 @@
+1. Which of the following returns the number of elements allocated for array "myArray"?
+[ ] a- myArray.size
+[x] b- myArray.length
+[ ] c- myArray.elements
+[ ] d- myArray.values
+
+2. Arrays can only hold integers.
+[ ] a- True
+[x] b- False
+
+3. In this multidimensional array: myArray[10][5], what does the number 10 represent?
+[ ] a- The number of elements in the array
+[x] b- The number of rows of the array
+[ ] c- The number of columns of the array
+[ ] d- The dimensions of the array

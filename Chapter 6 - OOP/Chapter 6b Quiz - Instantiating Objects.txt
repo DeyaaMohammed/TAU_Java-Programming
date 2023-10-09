@@ -1,0 +1,33 @@
+1. Which reserved word is used to instantiate an object?
+[ ] a- object
+[x] b- new
+[ ] c- instatiate
+[ ] d- start
+
+2. Which operator allows you to access an object's accessible methods?
+[x] a- .
+[ ] b- >
+[ ] c- ;
+[ ] d- []
+
+3. Which of the following is called when instanting a new object?
+[ ] a- First method in the class
+[ ] b- Last method in the class
+[x] c- A constructor of the class
+[ ] d- Field of the class
+
+4. How does an object instantiation map to the proper constructor?
+[x] a- By using the constructor with the same parameter list
+[ ] b- By only making one constructor within the class
+[ ] c- It's always the default constructor
+[ ] d- By the different constructor names
+
+5. Only one instance of a class can exist at a given time.
+[ ] a- True
+[x] b- False
+
+6. The data type of an object is a ______
+[x] a- Class
+[ ] b- Method
+[ ] c- Constructor
+[ ] d- String

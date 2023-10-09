@@ -1,0 +1,40 @@
+1. Which of the following is a valid declaration of interface I?
+[ ] a- `public class I`
+[x] b- `public interface I`
+[ ] c- `public class interface I`
+[ ] d- `public interface class I`
+
+2. Interfaces are required to declare its methods as abstract.
+[ ] a- True
+[x] b- False
+
+3. Which is a valid declaration of a field within an interface?
+[ ] a- `public int size;`
+[ ] b- `abstract public int size;`
+[ ] c- `protected int size;`
+[x] d- `int size = 0;`
+
+4. Given that class B is an interface, which of the following is a valid header for class A?
+[x] a- `class A implements B`
+[ ] b- `class A extends B`
+[ ] c- `class A inherits B`
+[ ] d- `class A interfaces B`
+
+5. Interfaces can be instantiated.
+[ ] a- True
+[x] b- False
+
+6. Within an interface, methods that contain a body must be declared as __________
+[ ] a- `final`
+[ ] b- `private`
+[x] c- `default`
+[ ] d- `abstract`
+
+7. How does a class specify that it will implement multiple interfaces?
+[x] a- By providing the list of names of the interfaces, separated by commas, within the class header
+[ ] b- By creating constructors for each of the interfaces
+[ ] c- By extending one interface and implementing another
+
+8. If a class indicates that it will implement multiple interfaces, then it must provide implementation for all abstract methods of those interfaces.
+[x] a- True
+[ ] b- False

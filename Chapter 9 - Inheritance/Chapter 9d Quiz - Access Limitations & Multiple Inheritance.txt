@@ -1,0 +1,27 @@
+1. Which of the following does a subclass inherit from its superclass?
+[ ] a- Constructors
+[ ] b- Private fields and methods
+[x] c- Public and protected fields and methods
+[ ] d- All of the above
+
+2. If a class does not want any of its subclasses to override an inherited member, it can declare that member as ______.
+[ ] a- public
+[ ] b- private
+[ ] c- protected
+[x] d- final
+
+3. When overriding a method, the subclass is allowed to change the access modifier to be stricter, thus giving weaker access.
+[ ] a- True
+[x] b- False
+
+4. All classes in Java, whether provided by the language or created by you, inherit from the Object class.
+[x] a- True
+[ ] b- False
+
+5. Classes that inherit from the same superclass are siblings and have a special relationship.
+[ ] a- True
+[x] b- False
+
+6. Classes can explicitly list multiple classes to inherit from within their header.
+[ ] a- True
+[x] b- False

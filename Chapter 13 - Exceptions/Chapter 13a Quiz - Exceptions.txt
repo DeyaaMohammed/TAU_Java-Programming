@@ -1,0 +1,53 @@
+Here are the questions in the requested format:
+
+1. What type of structure is used to handle exceptions?
+[ ] a- if/else
+[ ] b- switch
+[ ] c- for loop
+[x] d- try/catch
+
+2. Statements that could possibly throw an exception go inside of which block?
+[x] a- try
+[ ] b- catch
+[ ] c- anywhere in the method
+[ ] d- at the top of the class
+
+3. The code to actually handle the exception goes inside of which block?
+[ ] a- try
+[x] b- catch
+[ ] c- anywhere in the method
+[ ] d- at the top of the class
+
+4. A catch block follows a try block.
+[x] a- True
+[ ] b- False
+
+5. To handle an exception, you must specify which exceptions you are handling.
+[x] a- True
+[ ] b- False
+
+6. When is the code inside of a catch block executed?
+[ ] a- Always
+[ ] b- Never
+[x] c- Only if an exception of the type or subtype specified is thrown
+[ ] d- Only if an exception of the exact type specified is thrown
+
+7. What is a stack trace?
+[ ] a- The name of the exception
+[ ] b- The superclass of the exception
+[x] c- Information about the exception and the path that the code took
+[ ] d- The syrup left over from pancakes
+
+8. There can only be one catch block associated with a single try block.
+[ ] a- True
+[x] b- False
+
+9. Which symbol is used to list multiple exceptions within one catch block?
+[ ] a- ,
+[ ] b- :
+[x] c- |
+[ ] d- /
+
+10. A finally block is executed only when the catch block is executed.
+ [ ] a- True
+ [x] b- False
