@@ -8,7 +8,6 @@ Welcome to the repository where I've documented my solutions to the programming 
 - [Directory Structure](#directory-structure)
 - [Usage](#usage)
 - [Contributions](#contributions)
-- [License](#license)
 - [Disclaimer](#disclaimer)
 
 ## Introduction
